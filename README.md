@@ -31,4 +31,4 @@ This Snake game is a recreation of the timeless game where the objective is to g
 - Game over when hitting walls and body
   
 ```bash
-python snake_game.py
+python main.py
